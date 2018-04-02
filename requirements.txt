@@ -1,1 +1,0 @@
-git+ssh://git@github.com/crackerjackmack/python-pip-source-2@master#egg=libtestpip
